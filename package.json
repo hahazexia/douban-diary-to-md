@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "crawler": "^1.4.0",
+    "puppeteer": "^19.7.2"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "name": "douban-diary-to-md",
+  "version": "1.0.0",
+  "description": "crawl douban diary and convert to markdown",
+  "main": "index.js",
+  "devDependencies": {},
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hahazexia/douban-diary-to-md.git"
+  },
+  "keywords": [
+    "crawling",
+    "scraping"
+  ],
+  "author": "hahazexia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hahazexia/douban-diary-to-md/issues"
+  },
+  "homepage": "https://github.com/hahazexia/douban-diary-to-md#readme"
+}
