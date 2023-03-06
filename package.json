@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "chalk": "^5.2.0",
     "crawler": "^1.4.0",
-    "puppeteer": "^19.7.2"
+    "puppeteer": "^19.7.2",
+    "turndown": "^7.1.1"
   },
   "scripts": {
     "dev": "node index.js"
